@@ -35,18 +35,6 @@ A program that calculates the final marks by adding bonus marks and determines t
 - Basic error handling for division by zero
 - Console output using `console.log()`
 
-## How to Run
-
-1. Install [Node.js](https://nodejs.org/).
-2. Clone or download this repository.
-3. Open the project folder in VS Code.
-4. Run the JavaScript file in the terminal:
-
-   ```bash
-   node filename.js
-   ```
-
-   Replace `filename.js` with the name of your JavaScript file.
 
 ## Learning Goal
 
